@@ -14,7 +14,10 @@ this.addEventListener("install", (event) => {
      "https://covid19.mathdro.id/api/daily",
      "/sockjs-node",
      "/sw.js",
-     "http://localhost:3000/"
+     "http://localhost:3000/",
+     "/favicon.ico",
+     "/manifest.json"
+
         
       ]);
     })
